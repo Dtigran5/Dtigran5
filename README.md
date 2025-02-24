@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Tigran: Junior Python Developer**<br><br>- **Skills**: Proficient in Python, with a focus on machine learning (NumPy, pandas, scikit-learn) and backend development (Flask, Django). Familiar with Git for version control.<br>  <br>- **Machine Learning**: Basic understanding of algorithms for predictive tasks and data analysis.<br><br>- **Backend Development**: Experience in building RESTful APIs and handling database interactions.<br><br>- **Personal Traits**: Curious, collaborative, and detail-oriented. Enjoys problem-solving and coding challenges.<br><br>- **Aspirations**: Aims to deepen knowledge in machine learning and backend systems, eager to contribute to impactful projects in the tech industry.
+**Tigran: Junior Python Developer**<br><br>- **Skills**: Proficient in Python, with a focus on machine learning (NumPy, pandas, scikit-learn) and backend development (Flask, Django). Familiar with Git for version control.<br>  <br>- **Machine Learning**: Basic understanding of algorithms for predictive tasks and data analysis.<br><br>- **Personal Traits**: Curious, collaborative, and detail-oriented. Enjoys problem-solving and coding challenges.<br><br>- **Aspirations**: Aims to deepen knowledge in machine learning and backend systems, eager to contribute to impactful projects in the tech industry.
 
 
 ## 🌐 Socials:
